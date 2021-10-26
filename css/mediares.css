@@ -1,0 +1,15 @@
+@media screen and(max-width: 400px){
+    .header__top{
+        display: none;
+    }
+    .header__logo img{
+        width: 50px;
+    }
+    .wrapper{
+        max-width: 340px;
+        padding: 0 10px;
+    }
+    .header__top{
+        padding-top: 20px;
+    }
+}
